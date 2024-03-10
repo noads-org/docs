@@ -12,10 +12,13 @@ Caso deseje testar algo novo, você pode abrir uma discussão no grupo de trabal
 
 - Git
 - GitHub
-- Turborepo
-- Semantic Versioning (semver)
+- [Turborepo](https://turbo.build/repo)
+- [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
+- [Semantic Versioning (semver)](https://semver.org/)
 
-**Utilize semver em seus commits, siga o template para abertura de pull requests.**
+**Utilize conventional commits em seus commits, siga o template para abertura de pull requests.**
+
+**Utilize semver para publicar versões das suas aplicações e pacotes.**
 
 ### Linguagens de programação
 
