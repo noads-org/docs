@@ -47,7 +47,11 @@ As atuais lideranças em nossas frentes são:
 
 Para conhecer nossas pessoas especialistas e devs, confira nossos times [aqui](https://github.com/orgs/noads-org/teams/).
 
+## Documentações
+
+Mantenha todas as documentações neste repositório e coloque nos repositórios específicos somente a documentação sobre como rodar as aplicações e coisas muito específicas.
+
 ## Documentações específicas por especialidade
 
-- [Engenharia](./engenharia/)
 - [Design](./design/)
+- [Engenharia](./engenharia/)
