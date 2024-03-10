@@ -1,5 +1,7 @@
 # noads org - docs
 
+- [Board de tarefas](https://github.com/orgs/noads-org/projects/1/)
+
 ## Como nos organizamos
 
 Nos organizamos de maneira que possamos trabalhar em grupo distribuido e de maneira assíncrona.
